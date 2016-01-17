@@ -1,0 +1,9 @@
+This is my second feature
+
+<<<<<<< HEAD
+This is the change done from the Second branch
+=======
+THis is the work which was done in master
+
+More work commited to the master
+>>>>>>> d6549f0f14ddd965cbb9a8fb4a25b56e1c050059
